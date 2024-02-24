@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Win32-ninja"
+	BuildStamp="20231028-1206-Experimental"
+	Name="AlbertPCGAMER"
+	Generator="ctest-3.27.7"
+	CompilerName="C:/msys64/ucrt64/bin/g++.exe"
+	CompilerVersion="13.2.0"
+	OSName="Windows"
+	Hostname="AlbertPCGAMER"
+	OSRelease=" Professional"
+	OSVersion=" (Build 22000)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString=""
+	VendorID="Unknown Manufacturer"
+	FamilyID="0"
+	ModelID="0"
+	ProcessorCacheSize="0"
+	NumberOfLogicalCPU="12"
+	NumberOfPhysicalCPU="6"
+	TotalVirtualMemory="26052"
+	TotalPhysicalMemory="16324"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="3696"
+	>
+	<Testing>
+		<StartDateTime>Oct 28 14:06 Hora de verano romance</StartDateTime>
+		<StartTestTime>1698494815</StartTestTime>
+		<TestList/>
+		<EndDateTime>Oct 28 14:06 Hora de verano romance</EndDateTime>
+		<EndTestTime>1698494815</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

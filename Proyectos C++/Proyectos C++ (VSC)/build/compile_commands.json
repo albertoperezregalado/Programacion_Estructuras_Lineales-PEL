@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/Proyectos C++ (VSC)/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -g -std=c++23 -Wall -Wextra -pedantic -o CMakeFiles\\prueba_cpp.dir\\main.cpp.obj -c \"D:\\Proyectos C++ (VSC)\\main.cpp\"",
+  "file": "D:\\Proyectos C++ (VSC)\\main.cpp",
+  "output": "CMakeFiles\\prueba_cpp.dir\\main.cpp.obj"
+}
+]

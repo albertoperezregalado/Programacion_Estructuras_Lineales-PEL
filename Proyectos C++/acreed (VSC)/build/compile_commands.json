@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/acreed (VSC)/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -g -std=c++23 -Wall -Wextra -pedantic -Werror -o CMakeFiles\\acreed.dir\\main.cpp.obj -c \"D:\\acreed (VSC)\\main.cpp\"",
+  "file": "D:\\acreed (VSC)\\main.cpp",
+  "output": "CMakeFiles\\acreed.dir\\main.cpp.obj"
+}
+]

@@ -1,0 +1,5 @@
+D:/Proyectos C++ (VSC)/build/CMakeFiles/prueba_cpp.dir
+D:/Proyectos C++ (VSC)/build/CMakeFiles/package.dir
+D:/Proyectos C++ (VSC)/build/CMakeFiles/package_source.dir
+D:/Proyectos C++ (VSC)/build/CMakeFiles/edit_cache.dir
+D:/Proyectos C++ (VSC)/build/CMakeFiles/rebuild_cache.dir
